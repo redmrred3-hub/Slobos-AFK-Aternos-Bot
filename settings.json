@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Deadless.play.hosting",
-    "port": 62163,
+    "ip": "Deadless.aternos.me",
+    "port": 29662,
     "version": "",
     "try-creative": false
   },
